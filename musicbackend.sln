@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musicbackend", "musicbackend\musicbackend.csproj", "{754E12D1-14BB-4C94-B2CC-BCFFA41F682D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754E12D1-14BB-4C94-B2CC-BCFFA41F682D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754E12D1-14BB-4C94-B2CC-BCFFA41F682D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754E12D1-14BB-4C94-B2CC-BCFFA41F682D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754E12D1-14BB-4C94-B2CC-BCFFA41F682D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF1166F-FAA5-4F7A-8BA0-C71161D36FF8}
+	EndGlobalSection
+EndGlobal
